@@ -34,11 +34,13 @@ async def readMessages(channel):
         line= re.sub(r'[\n]','',line)
         for index in range(0,len(line)):
             if('2017'in line.split(' ')[0]):
-                temp_date=line.split(' ')[0]+line.split(' ')[1]
-                dic[line.split(' ')[0]+line.split(' ')[1]].append( line.split(' ')[2])
+                temp_date=line.split(' ')[0]+' '+line.split(' ')[1]
+                dic[line.split(' ')[0]+' '+ line.split(' ')[1]].append( line.split(' ')[2])
                 dic[temp_date].append(' '.join (line.split(' ')[3:len(line.split())]))#hi
+                print(temp_date)
             else:
                 dic[temp_date][1]+=(line)
+                print(temp_date)
     read_from_file.close()
     async for message in bot.logs_from(channel, limit=10000):
 
@@ -48,7 +50,7 @@ async def readMessages(channel):
 
     append_to_file.close()
     print(str(counter), 'new messages added')
-    print(dic)
+   # print(dic)
 
 @bot.event
 async def on_ready():

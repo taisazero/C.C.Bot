@@ -1,0 +1,4 @@
+2017-12-03 10:00:48,049:INFO:discord.client: on_ready has successfully been registered as an event
+2017-12-03 10:00:48,049:INFO:discord.client: logging in using static token
+2017-12-03 10:00:48,503:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-12-03 10:00:48,503:INFO:discord.gateway: sent the identify payload to create the websocket

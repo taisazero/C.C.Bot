@@ -5,13 +5,50 @@ from urllib import request as request
 from urllib import parse as parser
 from bs4 import BeautifulSoup
 import atexit
+import json
 from sys import exit
+import logging
+import collections
+import re
+
+append_to_file=open('discord_msgs.txt','a',encoding='utf-8')
+read_from_file=open('discord_msgs.txt','r',encoding='utf-8')
+
+logger = logging.getLogger('discord')
+logger.setLevel(logging.INFO)
+handler = logging.FileHandler(filename='discord.log', encoding='utf-8', mode='w')
+handler.setFormatter(logging.Formatter('%(asctime)s:%(levelname)s:%(name)s: %(message)s'))
+logger.addHandler(handler)
 
 description = '''An example bot to showcase the discord.ext.commands extension
 module.
 There are a number of utility commands being showcased here.'''
 bot = commands.Bot(command_prefix='!c ', description=description)
+latest_msg=discord.Message
+dic=collections.defaultdict(lambda :[])
+async def readMessages(channel):
+    counter =0
 
+    temp_date=''
+    for line in read_from_file.readlines():
+        line= re.sub(r'[\n]','',line)
+        for index in range(0,len(line)):
+            if('2017'in line.split(' ')[0]):
+                temp_date=line.split(' ')[0]+line.split(' ')[1]
+                dic[line.split(' ')[0]+line.split(' ')[1]].append( line.split(' ')[2])
+                dic[temp_date].append(' '.join (line.split(' ')[3:len(line.split())]))
+            else:
+                dic[temp_date][1]+=(line)
+    read_from_file.close()
+    async for message in bot.logs_from(channel, limit=10000):
+
+        if(str(message.timestamp) not in dic.keys()):
+            counter+=1
+            append_to_file.write(str(message.timestamp)+' '+str(message.author)+' '+' '+str(message.content)+'\n')
+
+    append_to_file.close()
+    print(str(counter), 'new messages added')
+    print(dic)
 
 @bot.event
 async def on_ready():
@@ -20,6 +57,7 @@ async def on_ready():
     print(bot.user.name)
     print(bot.user.id)
     print('------')
+    await readMessages(bot.get_channel('275407824807264260'))
 """
 @atexit.register
 def bot_out():
@@ -35,6 +73,38 @@ async def logoff():
 
 """
 
+
+
+def get_pizza_gifs():
+    url = 'https://api.giphy.com/v1/gifs/search?api_key=DYaEYDVMv0FfGTMrkuR0ygQVc66rbwJ9&q=code%20geass%20pizza&limit=25&offset=0&rating=G&lang=en'
+    response = request.urlopen(url)
+    result = response.read()
+    print(result)
+
+    d = json.loads(result)
+    list = []
+    for i in range(0, len(d['data'])):
+        if (('cc' in d['data'][i]['slug'] and 'pizza' in d['data'][i]['slug']) or 'pizza' in d['data'][i][
+            'title'] and 'cc' in d['data'][i]['title']):
+            list.append(d['data'][i]['embed_url'])
+    return list
+#Todo add command not found
+async def invalid():
+    await bot.say('Invalid command! Please type !c help for list of commands')
+@bot.command()
+async def pin_msg():
+    bot.pin_message(latest_msg)
+
+@bot.command()
+async def commands():
+    em=discord.Embed(title='Commands!', description='List of C.C. bot Commands:\nPrefix is !c \nCommands: 1. eatpizza \n2. add num1 num2 : returns num1+num2 \n3. spamasshat message: sends 5 messages to Devansh\n4. spamasshat2 message times: sends messages according to number of times to Devansh\n 5. asshatmusic: sends Devansh a random nightcore, Alan Walker, Marshmellow, Code Geass song \n6. erfanmusic @user : sends the specified user a random song from Erfan\'s Youtube playlist! ', colour=0xFCC3E)
+    em.set_author(name='C.C. Bot',icon_url='https://cdn.discordapp.com/app-icons/386758307957964800/bdee6902547c40608012eca1f37438aa.png')
+    await bot.send_message(bot.get_channel('275407824807264260'), embed=em)
+
+@bot.command()
+async def eatpizza():
+    list=get_pizza_gifs()
+    await bot.say(':pizza:'+list[random.randint(0,len(list)-1)]+' :pizza:'+'!' +':heart: :heart: :heart:')
 @bot.command()
 async def add(left : int, right : int):
     """Adds two numbers together."""
@@ -87,7 +157,7 @@ async def spamasshat2(music,times):
         await bot.say('<@!175826482923438081>'+' '+music)
 @bot.command()
 async def asshatmusic():
-    list=['nightcore','code geass','ok one rock', 'Marshmellow','Alan Walker Spectre']
+    list=['nightcore','code geass op','ok one rock', 'Marshmellow','Alan Walker Spectre', 'code geass ed', 'code geass ost']
     num=random.randint(0,len(list)-1)
     await bot.say('<@!175826482923438081>'+' '+getYoutube(list[num]))
 
@@ -120,4 +190,9 @@ async def _bot():
     """Is the bot cool?"""
     await bot.say('Yes, the bot is cool.')
 
+
+
+
+
 bot.run('Mzg2NzU4MzA3OTU3OTY0ODAw.DQUqpA.EEwZ6nhq3PaQjJsbZbnLj6UiRa4')
+

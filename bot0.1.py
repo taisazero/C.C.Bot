@@ -50,7 +50,7 @@ async def readMessages(channel):
 
     append_to_file.close()
     print(str(counter), 'new messages added')
-   # print(dic)
+    print(dic)
 
 @bot.event
 async def on_ready():
@@ -81,7 +81,7 @@ def get_pizza_gifs():
     url = 'https://api.giphy.com/v1/gifs/search?api_key=DYaEYDVMv0FfGTMrkuR0ygQVc66rbwJ9&q=code%20geass%20pizza&limit=25&offset=0&rating=G&lang=en'
     response = request.urlopen(url)
     result = response.read()
-    print(result)
+
 
     d = json.loads(result)
     list = []

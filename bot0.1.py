@@ -36,7 +36,7 @@ async def readMessages(channel):
             if('2017'in line.split(' ')[0]):
                 temp_date=line.split(' ')[0]+line.split(' ')[1]
                 dic[line.split(' ')[0]+line.split(' ')[1]].append( line.split(' ')[2])
-                dic[temp_date].append(' '.join (line.split(' ')[3:len(line.split())]))
+                dic[temp_date].append(' '.join (line.split(' ')[3:len(line.split())]))#hi
             else:
                 dic[temp_date][1]+=(line)
     read_from_file.close()

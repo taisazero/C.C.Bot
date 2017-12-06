@@ -1,7 +1,0 @@
-Client ID: 386758307957964800
-link: https://discordapp.com/api/oauth2/authorize?client_id=386758307957964800&permissions=8&redirect_uri=http%3A%2F%2Flocalhost%3A5000&response_type=code&scope=bot
-Client Secret: 7Y40gy8U9Rvs5zLWAXeMsjKQp8jYHtRq
-Token: Mzg2NzU4MzA3OTU3OTY0ODAw.DQUqpA.EEwZ6nhq3PaQjJsbZbnLj6UiRa4
-Username: OdysseyBotV0.1#0308
-
-Giphy API Key: DYaEYDVMv0FfGTMrkuR0ygQVc66rbwJ9

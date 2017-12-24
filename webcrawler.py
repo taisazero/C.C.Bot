@@ -66,6 +66,7 @@ class webcrawler():
                 bs=BeautifulSoup(result)
                 lmao += str(bs.find(attrs={self.lookFor:self.lookFor2}))
                 lmao= re.sub(r'[</]+[\w =\",:;#]+[>/]*','',lmao)
+                lmao+='THE END\n'
             sentences = nltk.sent_tokenize(lmao)
             print(sentences)
             return sentences
@@ -80,6 +81,7 @@ class webcrawler():
             lmao = re.sub(r'[</]+[\w =\",:;#]+[>/]*', '', lmao)
             sentences = nltk.sent_tokenize(lmao)
             print(sentences)
+
         return sentences
 
 

@@ -1,12 +1,16 @@
 import nltk
 import collections
 import re
+import pandas as pd
+from nltk.corpus import stopwords
 import sklearn as sk
 #import tensorflow
 #from tensorflow import tflearn
 class c2Model():
 
     file=''
+
+    eng_stops=set(stopwords.words('english'))
     char_sent_dic= collections.defaultdict(lambda :[])
     def __init__(self,f):
         self.file=f
@@ -37,16 +41,22 @@ class c2Model():
             for sent in sents:
                 sent=re.sub(r'[\n,.!?\\\"\']','',sent).lower()
                 for word in sent.split(' '):
-                    bag[word]+=1
+                    if(word not in self.eng_stops and word !='' and word !=' '):
+                        bag[word]+=1
 
             return bag
         else:
             print('create char dic first')
             return None
+    def bag_csv(self,filename,character):
+        bag=self.char_bag(character)
+        print(bag)
+        my_panda=pd.DataFrame(list(bag.items()),columns=['word','count'])
+        print(my_panda)
+        my_panda.to_csv(filename,encoding='utf-8')
+
 
 waifu=c2Model('CodeGeassCorpus.txt')
-char_dic=waifu.get_char_dic()
-print(char_dic)
-print(len(char_dic['C.C.']))
-print (waifu.char_bag('Lelouch'))
+for key in waifu.get_char_dic().keys():
+    waifu.bag_csv('bags\\'+key+'.csv',key)
 

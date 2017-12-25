@@ -9,7 +9,7 @@ import sklearn as sk
 class c2Model():
 
     file=''
-
+#hi
     eng_stops=set(stopwords.words('english'))
     char_sent_dic= collections.defaultdict(lambda :[])
     def __init__(self,f):

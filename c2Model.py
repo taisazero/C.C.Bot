@@ -4,8 +4,29 @@ import re
 import pandas as pd
 from nltk.corpus import stopwords
 import sklearn as sk
-#import tensorflow
-#from tensorflow import tflearn
+import tensorflow as tf
+
+#ToDo:
+"""
+- Add POS Tagging
+- Only add nouns and verbs to bag of words
+- Redo Visualizations
+- Clean up data text file and look into C.C. logs
+- implement a TF model and start chatbot
+- Make a classifier classifies user sentence as a character
+- Add functionalities to chatbot
+- Install AWS repo
+
+
+After that:
+ Separate class
+- Work on speech to text
+- Make bot join a voice channel
+- listen to speakers
+-generate mp3 file of speech
+-send to google speech api
+-generate a text file
+"""
 class c2Model():
 
     file=''

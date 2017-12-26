@@ -14,6 +14,8 @@ from textblob import TextBlob
 - Make a classifier classifies user sentence as a character
 - Add functionalities to chatbot
 - Install AWS repo
+- Setup Heroku
+
 
 
 After that:

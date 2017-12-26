@@ -13,6 +13,14 @@ import re
 
 append_to_file=open('discord_msgs.txt','a',encoding='utf-8')
 read_from_file=open('discord_msgs.txt','r',encoding='utf-8')
+temp_file=open('keys\\token.txt','r')
+bot_token=temp_file.readline()
+bot_token=re.sub(r'\n','',bot_token)
+print(bot_token)
+giphy_token=temp_file.readline()
+giphy_token=re.sub(r'\n','',giphy_token)
+print(giphy_token)
+temp_file.close()
 
 logger = logging.getLogger('discord')
 logger.setLevel(logging.INFO)
@@ -37,10 +45,10 @@ async def readMessages(channel):
                 temp_date=line.split(' ')[0]+' '+line.split(' ')[1]
                 dic[line.split(' ')[0]+' '+ line.split(' ')[1]].append( line.split(' ')[2])
                 dic[temp_date].append(' '.join (line.split(' ')[3:len(line.split())]))#hi
-                print(temp_date)
+
             else:
                 dic[temp_date][1]+=(line)
-                print(temp_date)
+
     read_from_file.close()
     async for message in bot.logs_from(channel, limit=10000):
 
@@ -50,7 +58,8 @@ async def readMessages(channel):
 
     append_to_file.close()
     print(str(counter), 'new messages added')
-    print(dic)
+
+
 
 @bot.event
 async def on_ready():
@@ -78,7 +87,7 @@ async def logoff():
 
 
 def get_pizza_gifs():
-    url = 'https://api.giphy.com/v1/gifs/search?api_key=DYaEYDVMv0FfGTMrkuR0ygQVc66rbwJ9&q=code%20geass%20pizza&limit=25&offset=0&rating=G&lang=en'
+    url = 'https://api.giphy.com/v1/gifs/search?api_key='+giphy_token+'&q=code%20geass%20pizza&limit=25&offset=0&rating=G&lang=en'
     response = request.urlopen(url)
     result = response.read()
 
@@ -196,5 +205,5 @@ async def _bot():
 
 
 
-bot.run('Mzg2NzU4MzA3OTU3OTY0ODAw.DQUqpA.EEwZ6nhq3PaQjJsbZbnLj6UiRa4')
+bot.run(bot_token)
 

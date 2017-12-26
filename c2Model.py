@@ -5,6 +5,7 @@ import pandas as pd
 from nltk.corpus import stopwords
 import sklearn as sk
 import tensorflow as tf
+from textblob import TextBlob
 
 #ToDo:
 """
@@ -57,13 +58,18 @@ class c2Model():
         return self.char_sent_dic
     def char_bag(self,character):
         if(len(self.char_sent_dic.keys())>0):
-            bag=collections.defaultdict(lambda:0 )
+            bag=collections.defaultdict(lambda:['',0])
             sents=self.char_sent_dic[character]
             for sent in sents:
                 sent=re.sub(r'[\n,.!?\\\"\']','',sent).lower()
-                for word in sent.split(' '):
-                    if(word not in self.eng_stops and word !='' and word !=' '):
-                        bag[word]+=1
+                if(len(sent.split(' '))>0):
+                    tagged =nltk.pos_tag(sent.split())
+                    for word, tag in tagged:
+                        if(word not in self.eng_stops and word !='' and word !=' '):
+                            if (tag=='NN' or tag=='NNP' or tag=='VB' or tag=='RB'or tag=='NNS'or tag=='JJ'or 'FW'):
+                                bag[word][0]=tag
+                                bag[word][1]+= 1
+
 
             return bag
         else:
@@ -71,13 +77,25 @@ class c2Model():
             return None
     def bag_csv(self,filename,character):
         bag=self.char_bag(character)
-        print(bag)
-        my_panda=pd.DataFrame(list(bag.items()),columns=['word','count'])
+        print(bag.items())
+        my_panda=pd.DataFrame.from_dict(bag,orient='index')
         print(my_panda)
         my_panda.to_csv(filename,encoding='utf-8')
+    def sentiment(self,character):
+       sents= self.get_char_dic()[character]
+       total=''
+       for sent in sents:
+           total+=' ' +sent
+       t=TextBlob(total)
+       print(character,t.sentiment)
+
+
+
+
 
 
 waifu=c2Model('CodeGeassCorpus.txt')
 for key in waifu.get_char_dic().keys():
-    waifu.bag_csv('bags\\'+key+'.csv',key)
+    #waifu.bag_csv('bags\\'+key+'.csv',key)
+    waifu.sentiment(key)
 

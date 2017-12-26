@@ -9,9 +9,6 @@ from textblob import TextBlob
 
 #ToDo:
 """
-- Add POS Tagging
-- Only add nouns and verbs to bag of words
-- Redo Visualizations
 - Clean up data text file and look into C.C. logs
 - implement a TF model and start chatbot
 - Make a classifier classifies user sentence as a character

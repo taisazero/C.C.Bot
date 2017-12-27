@@ -1,4 +1,5 @@
 import discord
+from discord import VoiceClient
 from discord.ext import commands
 import random
 from urllib import request as request
@@ -180,16 +181,21 @@ async def joinvoice(ctx):
     if channel != None:
 
         await bot.join_voice_channel(channel)
+        data =await VoiceClient.poll_voice_ws() # does not work yet
+
 
 @bot.command(pass_context=True)
 async def disconnectvoice(ctx):
     server=ctx.message.server
-
+    channel = ctx.message.author.voice_channel
     try:
-        await bot.send_typing
+        await bot.send_typing()
+        await  VoiceClient.disconnect(channel)
 
     except:
         pass
+
+
 
 
 

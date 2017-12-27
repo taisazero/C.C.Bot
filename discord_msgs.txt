@@ -826,4 +826,6 @@ Use `t!help [command]` to get more info on a specific command, for example: `t!h
 2017-01-31 03:52:35.357000 Taisa Zero#9806  They were all Hilary's
 2017-01-31 03:52:18.160000 Taisa Zero#9806  50,000 of them~
 2017-01-31 03:52:06.917000 Taisa Zero#9806  <@175826482923438081> I deleted them emails 😉
-2017-01-30 00:29:57.956000 Tatsumaki#8792  🗑  |  **taisa zero**, successfully deleted 22 messages from this channel!
+2017-01-30 00:29:57.956000 Tatsumaki#8792  🗑  |  **taisa zero**, successfully deleted 22 messages from this channel!2017-12-27 04:13:33.616000 Taisa Zero#9806  !c joinvoice
+2017-12-26 22:24:10.567000 OdysseyBotV0.1#0308  :pizza:https://giphy.com/embed/mnjYuPQ24mXu0 :pizza:!:heart: :heart: :heart:
+2017-12-26 22:24:09.327000 Taisa Zero#9806  !c eatpizza

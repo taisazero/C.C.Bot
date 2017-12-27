@@ -1,4 +1,11 @@
-2017-12-26 17:23:47,689:INFO:discord.client: on_ready has successfully been registered as an event
-2017-12-26 17:23:47,689:INFO:discord.client: logging in using static token
-2017-12-26 17:23:48,346:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
-2017-12-26 17:23:48,361:INFO:discord.gateway: sent the identify payload to create the websocket
+2017-12-26 23:26:43,121:INFO:discord.client: on_ready has successfully been registered as an event
+2017-12-26 23:26:43,121:INFO:discord.client: logging in using static token
+2017-12-26 23:26:43,643:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-12-26 23:26:43,643:INFO:discord.gateway: sent the identify payload to create the websocket
+2017-12-26 23:27:11,681:INFO:discord.client: attempting to join voice channel Erfan's Lost Thoughts
+2017-12-26 23:27:11,759:INFO:discord.gateway: Unhandled event VOICE_SERVER_UPDATE
+2017-12-26 23:27:11,759:INFO:discord.voice_client: created opus encoder with {'sampling_rate': 48000, 'channels': 2, 'application': 2049, 'frame_length': 20, 'sample_size': 4, 'samples_per_frame': 960, 'frame_size': 3840, '_state': <discord.opus.LP_EncoderStruct object at 0x000001C5AFC9C6C8>}
+2017-12-26 23:27:11,759:INFO:discord.voice_client: voice connection is connecting...
+2017-12-26 23:27:11,763:INFO:discord.voice_client: Voice endpoint found us-east181.discord.gg (IP: 172.106.16.26)
+2017-12-26 23:27:11,985:INFO:discord.gateway: selected the voice protocol for use
+2017-12-26 23:27:12,019:INFO:discord.gateway: received secret key for voice connection

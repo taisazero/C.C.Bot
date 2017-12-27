@@ -16,10 +16,8 @@ read_from_file=open('discord_msgs.txt','r',encoding='utf-8')
 temp_file=open('keys\\token.txt','r')
 bot_token=temp_file.readline()
 bot_token=re.sub(r'\n','',bot_token)
-print(bot_token)
 giphy_token=temp_file.readline()
 giphy_token=re.sub(r'\n','',giphy_token)
-print(giphy_token)
 temp_file.close()
 
 logger = logging.getLogger('discord')
@@ -176,6 +174,25 @@ async def asshatmusic():
 async def erfanmusic(user:discord.User):
     await  bot.say(user.mention+' '+getPlayListSong())
 
+@bot.command(pass_context=True)
+async def joinvoice(ctx):
+    channel=ctx.message.author.voice_channel
+    if channel != None:
+
+        await bot.join_voice_channel(channel)
+
+@bot.command(pass_context=True)
+async def disconnectvoice(ctx):
+    server=ctx.message.server
+
+    try:
+        await bot.send_typing
+
+    except:
+        pass
+
+
+
 
 def getYoutube(textToSearch):
     query = textToSearch
@@ -200,6 +217,8 @@ def getPlayListSong():
 async def _bot():
     """Is the bot cool?"""
     await bot.say('Yes, the bot is cool.')
+
+
 
 
 

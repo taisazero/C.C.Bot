@@ -829,3 +829,703 @@ Use `t!help [command]` to get more info on a specific command, for example: `t!h
 2017-01-30 00:29:57.956000 Tatsumaki#8792  🗑  |  **taisa zero**, successfully deleted 22 messages from this channel!2017-12-27 04:13:33.616000 Taisa Zero#9806  !c joinvoice
 2017-12-26 22:24:10.567000 OdysseyBotV0.1#0308  :pizza:https://giphy.com/embed/mnjYuPQ24mXu0 :pizza:!:heart: :heart: :heart:
 2017-12-26 22:24:09.327000 Taisa Zero#9806  !c eatpizza
+2019-01-15 22:08:49.147000 Tatsumaki#8792  <@!347132381968334848>, connected to EHEHEHEHE
+2019-01-15 22:01:37.733000 Tatsumaki#8792  <@!384526715512291340>, connected to EHEHEHEHE
+2019-01-09 20:50:51.282000 Tatsumaki#8792  <@!267497981534535687>, connected to EHEHEHEHE
+2019-01-09 19:45:37.251000 Tatsumaki#8792  <@!123615235746562049>, connected to EHEHEHEHE
+2018-09-26 20:41:38.101000 Tatsumaki#8792  <@!388504313187663872>, connected to EHEHEHEHE
+2018-09-18 15:37:05.447000 Tatsumaki#8792  <@!411236430778728448>, connected to EHEHEHEHE
+2018-09-06 13:01:44.580000 JoshTheBoss#9009  lol
+2018-09-06 13:01:33.736000 Tatsumaki#8792  ⏰  |  **Got it! I'll remind you in 0 days 5 hours 0 minutes!**
+2018-09-06 13:01:33.544000 JoshTheBoss#9009  t!remindme tell erfan he is awesome in 0 days 5 hours 0 minutes
+2018-09-06 13:00:57.930000 JoshTheBoss#9009  😩
+2018-09-06 13:00:50.685000 JoshTheBoss#9009  cry
+2018-09-06 13:00:44.372000 Tatsumaki#8792  <:no:390511503238758400>  |  **JoshTheBoss**, Looks like you don't have any reminders set!
+2018-09-06 13:00:44.220000 JoshTheBoss#9009  t!remindme list
+2018-09-06 13:00:05.883000 Tatsumaki#8792  <:no:390511503238758400>  |  **JoshTheBoss**, the correct usage is:  `t!remindme <reminder> in <[0 days] [00 hours] [00 minutes]> | remove | list`
+▫  |  e.g. `t!remindme list`
+▫  |  Get more help using `t!help remindme`
+2018-09-06 13:00:05.794000 JoshTheBoss#9009  t!remindme reminder for erfan that he is awesome in [0 days] [03 hours] [00 minutes]
+2018-09-06 12:59:33.125000 Tatsumaki#8792  <:no:390511503238758400>  |  **JoshTheBoss**, the correct usage is:  `t!remindme <reminder> in <[0 days] [00 hours] [00 minutes]> | remove | list`
+▫  |  e.g. `t!remindme to get dailies in 1 day 2 hours and 32 minutes`
+▫  |  Get more help using `t!help remindme`
+2018-09-06 12:59:32.930000 JoshTheBoss#9009  t!remindme to remind erfan that he is awesome 0 days 3 hours 0 minutes
+2018-09-06 12:58:22.800000 JoshTheBoss#9009  !daily
+2018-08-31 21:18:04.963000 Tatsumaki#8792  ⏰  |  **Got it! I'll remind you in 0 days 3 hours 0 minutes!**
+2018-08-31 21:18:04.779000 jelloh#0752  t!remindme to remind erfan to do quiz in 0 days 3 hours 0 minutes
+2018-08-31 21:17:55.377000 Tatsumaki#8792  <:no:390511503238758400>  |  **jelloh**, the correct usage is:  `t!remindme <reminder> in <[0 days] [00 hours] [00 minutes]> | remove | list`
+▫  |  e.g. `t!remindme remove`
+▫  |  Get more help using `t!help remindme`
+2018-08-31 21:17:55.195000 jelloh#0752  t!remindme to remind erfan to do quiz 0 days 3 hours 0 minutes
+2018-08-31 21:17:43.231000 Tatsumaki#8792  <:no:390511503238758400>  |  **jelloh**, the correct usage is:  `t!remindme <reminder> in <[0 days] [00 hours] [00 minutes]> | remove | list`
+▫  |  e.g. `t!remindme remove`
+▫  |  Get more help using `t!help remindme`
+2018-08-31 21:17:43.062000 jelloh#0752  t!remindme to remind erfan to do quiz 0 days 3 hours 0 minutes
+2018-08-30 19:09:40.510000 Tatsumaki#8792  ⏰  |  **Got it! I'll remind you in 0 days 5 hours 0 minutes!**
+2018-08-30 19:09:40.424000 jelloh#0752  t!remindme to poop in 0 days 5 hours 0 minutes
+2018-08-30 16:22:25.050000 Tatsumaki#8792  ⏰  |  **Got it! I'll remind you in 0 days 7 hours 38 minutes!**
+2018-08-30 16:22:24.868000 meimeister#6054  t!remindme socy hw 3146 quizzes in 0 days 7 hours 38 minutes
+2018-08-30 01:14:11.228000 Tatsumaki#8792  <@!268223312537059332>, connected to EHEHEHEHE
+2018-08-27 17:36:50.075000 Tatsumaki#8792  <@!483680820519895051>, connected to EHEHEHEHE
+2018-08-20 18:49:55.031000 Tatsumaki#8792  <@!92034992036642816>, connected to EHEHEHEHE
+2018-05-30 20:40:53.384000 Tatsumaki#8792  ⏰  |  **Got it! I'll remind you in 0 days 5 hours 0 minutes!**
+2018-05-30 20:40:53.197000 meimeister#6054  t!remindme change assignment deadlines for that one dude in 0 days 5 hours 0 minutes
+2018-05-30 20:36:24.674000 Tatsumaki#8792  ⏰  |  **Got it! I'll remind you in 0 days 5 hours 0 minutes!**
+2018-05-30 20:36:24.396000 meimeister#6054  t!remindme finish time sheet in 0 days 5 hours 0 minutes
+2018-05-30 20:36:05.082000 Tatsumaki#8792  ⏰  |  **Got it! I'll remind you in 0 days 5 hours 0 minutes!**
+2018-05-30 20:36:05.005000 meimeister#6054  t!remindme enter kahoot grades in 0 days 5 hours 0 minutes
+2018-05-30 20:35:50.312000 Tatsumaki#8792  ⏰  |  **Got it! I'll remind you in 0 days 5 hours 0 minutes!**
+2018-05-30 20:35:50.140000 meimeister#6054  t!remindme enter nnamdis video quiz in 0 days 5 hours 0 minutes
+2018-05-25 04:05:29.408000 Taisa Zero#9806  !c eatpizza
+2018-05-25 04:05:00.021000 Taisa Zero#9806  !c erfanmusic
+2018-05-25 04:04:19.611000 Taisa Zero#9806  !c music
+2018-05-21 17:50:50.373000 Tatsumaki#8792  ⏰  |  **Got it! I'll remind you in 0 days 8 hours 40 minutes!**
+2018-05-21 17:50:50.187000 meimeister#6054  t!remindme grade activity 1.2 in 0 days 8 hours 40 minutes
+2018-05-21 17:28:29.202000 meimeister#6054  thanks
+2018-05-21 17:28:23.589000 Tatsumaki#8792  ⏰  |  **Got it! I'll remind you in 0 days 9 hours 02 minutes!**
+2018-05-21 17:28:23.450000 meimeister#6054  t!remindme Input Naseem's kahoot grade in 0 days 9 hours 02 minutes
+2018-05-21 17:27:26.382000 Tatsumaki#8792  <:no:390511503238758400>  |  **meimeister**, the correct usage is:  `t!remindme <reminder> in <[0 days] [00 hours] [00 minutes]> | remove | list`
+▫  |  e.g. `t!remindme remove`
+▫  |  Get more help using `t!help remindme`
+2018-05-21 17:27:26.178000 meimeister#6054  t!remindme <Input Naseem's kahoot grade> in <[1]>
+2018-05-21 17:27:02.194000 Tatsumaki#8792  **`t!remindme`** __`Set, remove or see a list of reminders.`__
+**Aliases**: `remind`
+
+**Usage**: t!remindme <reminder> in <[0 days] [00 hours] [00 minutes]> | remove | list
+
+**Examples:**
+**`t!remindme to get dailies in 1 day 2 hours and 32 minutes`**  will remind you "to get dailies" when the time you provided arrives.
+**`t!remindme remove`**  will open a menu so you can remove any of your reminders
+**`t!remindme list`**  will show you all the reminders you have set
+2018-05-21 17:27:02.049000 Taisa Zero#9806  t!help remindme
+2018-05-21 17:26:26.936000 Tatsumaki#8792  ```rb
+`Standard Commands List`
+```
+Use `t!help [command]` to get more info on a specific command, for example: `t!help rank`
+
+**1. Core - **`help` `invite` `leveledroles` `ping` `selfroles` `support` 
+**2. Social - **`background` `badges` `dailies` `profile` `rank` `reputation` `setinfo` `settitle` `top` 
+**3. Fun - **`8ball` `cah` `cat` `catfacts` `choose` `coin` `cookie` `dice` `dog` `dogfacts` `fishy` `fortune` `numberfacts` `psychopass` `ratewaifu` `reverse` `rps` `slots` `tags` `tatsugotchi` 
+**4. Economy - **`credits` `points` 
+**5. Utilities - **`color` `converter` `crypto` `google` `image` `lotto` `math` `remindme` `shorten` `stocks` `strawpoll` `todo` `urban` `vote` `weather` `wiki` `youtube` 
+**6. Information - **`apikey` `avatar` `botlist` `changelog` `channel` `info` `role` `server` `shared` `usage` 
+**7. Anime - **`anime` `manga` `osu` `sic` 
+**8. Memes - **`beautiful` `hackerman` 
+
+```pl
+# Don't include the example brackets when using commands!
+# To view mod commands, use t@help
+```
+2018-05-21 17:26:21.518000 Taisa Zero#9806  t!help
+2018-04-10 23:09:35.013000 Tatsumaki#8792  🏧  |  **JoshTheBoss**, **daily 💴 credits reset in 23 hours, 50 minutes and 27 seconds.**
+2018-04-10 23:09:32.827000 JoshTheBoss#9009  t!dailies
+2018-04-10 23:09:21.009000 JoshTheBoss#9009  t!dailies
+2018-04-10 23:09:12.687000 Tatsumaki#8792  🏧 | **JoshTheBoss**, **you received your 💴 200 daily credits!**
+2018-04-10 23:09:11.425000 JoshTheBoss#9009  t!dailies
+2018-04-08 00:43:42.187000 Tatsumaki#8792  🏧 | **OutrageouslyStealthyOstrich**, **you received your 💴 200 daily credits!**
+
+**Streak: <:b_:400807295363317760><:ou:400807295933743105><:nu:400807295845662721><:uu:400807296231538688><:su:400807295870697473>**
+2018-04-08 00:43:42.136000 OutrageouslyStealthyOstrich#0666  t!dailies
+2018-04-02 15:48:50.014000 Taisa Zero#9806  🤑
+2018-04-02 15:48:42.728000 Tatsumaki#8792  🏧 | **Taisa Zero**, **you received your 💴 200 daily credits!**
+2018-04-02 15:48:42.477000 Taisa Zero#9806  t!dailies
+2018-04-02 15:48:37.655000 Tatsumaki#8792  💳  |  **Taisa Zero**, **you have a balance of 💴 25521 credits!**
+2018-04-02 15:48:37.496000 Taisa Zero#9806  t!credits
+2018-04-02 15:17:53.996000 Tatsumaki#8792  📝  |  **User profile card for JoshTheBoss**
+2018-04-02 15:17:53.299000 JoshTheBoss#9009  t!profile
+2018-04-02 15:17:48.373000 Tatsumaki#8792  🏧 | **JoshTheBoss**, **you received your 💴 200 daily credits!**
+2018-04-02 15:17:48.223000 JoshTheBoss#9009  t!dailies
+2018-02-25 17:41:00.166000 Tatsumaki#8792  🏧 | **JoshTheBoss**, **you received your 💴 200 daily credits!**
+2018-02-25 17:41:00.081000 JoshTheBoss#9009  t!dailies
+2018-02-25 17:40:45.365000 Tatsumaki#8792  💳  |  **JoshTheBoss**, **you have a balance of 💴 1999 credits!**
+2018-02-25 17:40:45.305000 JoshTheBoss#9009  t!credits
+2018-02-25 17:00:40.295000 Taisa Zero#9806  🤑
+2018-02-25 17:00:32.279000 Tatsumaki#8792  💳  |  **Taisa Zero**, **you have a balance of 💴 24743 credits!**
+2018-02-25 17:00:32.127000 Taisa Zero#9806  t!credits
+2018-02-25 17:00:26.436000 Taisa Zero#9806  t!creidts
+2018-02-25 17:00:22.333000 Tatsumaki#8792  🏧 | **Taisa Zero**, **you received your 💴 200 daily credits!**
+2018-02-25 17:00:22.202000 Taisa Zero#9806  t!dailies
+2018-02-25 16:49:55.035000 Tatsumaki#8792  🏧 | **OutrageouslyStealthyOstrich**, **you received your 💴 200 daily credits!**
+
+**Streak: <:b_:400807295363317760><:ou:400807295933743105><:nu:400807295845662721><:uu:400807296231538688><:su:400807295870697473>**
+2018-02-25 16:49:54.839000 OutrageouslyStealthyOstrich#0666  t!dailies
+2018-02-24 15:08:25.049000 Tatsumaki#8792  🏧 | **OutrageouslyStealthyOstrich**, **you received your 💴 200 daily credits!**
+2018-02-24 15:08:24.895000 OutrageouslyStealthyOstrich#0666  t!dailies
+2018-02-23 22:37:13.229000 Tatsumaki#8792  📛  |  **JoshTheBoss**, you currently do not have any redeemable badges. Check back later!
+2018-02-23 22:37:13.136000 JoshTheBoss#9009  1
+2018-02-23 22:37:10.239000 JoshTheBoss#9009  t!badges redeem
+2018-02-23 22:36:50.595000 Tatsumaki#8792  **`t!badges`** __`Badges customisation menu for profiles`__
+
+**Usage**: t!badges [redeem | equip | clear]
+
+**Examples:**
+**`t!badges redeem`**  opens the badge redemption menu
+**`t!badges equip`**  opens the badge equipment menu
+**`t!badges clear`**  clears all badges currently on profile
+2018-02-23 22:36:50.428000 JoshTheBoss#9009  t!help badges
+2018-02-23 22:36:39.617000 Tatsumaki#8792  <:no:390511503238758400>  |  **JoshTheBoss**, the correct usage is:  `t!badges [redeem | equip | clear]`
+▫  |  e.g. `t!badges redeem`
+▫  |  Get more help using `t!help badges`
+2018-02-23 22:36:39.566000 JoshTheBoss#9009  t!badges buy
+2018-02-23 22:36:23.651000 Tatsumaki#8792  📛  |  **JoshTheBoss**, you currently do not have any redeemable badges. Check back later!
+2018-02-23 22:36:23.470000 JoshTheBoss#9009  1
+2018-02-23 22:36:20.763000 JoshTheBoss#9009  t!badges redeem
+2018-02-23 22:36:05.416000 Tatsumaki#8792  <:no:390511503238758400>  |  **JoshTheBoss**, the correct usage is:  `t!badges [redeem | equip | clear]`
+▫  |  e.g. `t!badges clear`
+▫  |  Get more help using `t!help badges`
+2018-02-23 22:36:05.270000 JoshTheBoss#9009  t!badges
+2018-02-23 22:35:59.731000 JoshTheBoss#9009  store
+2018-02-23 22:35:55.830000 JoshTheBoss#9009  t!store
+2018-02-23 22:35:50.765000 JoshTheBoss#9009  !store
+2018-02-23 22:35:43.654000 Tatsumaki#8792  📝  |  **User profile card for JoshTheBoss**
+2018-02-23 22:35:42.835000 JoshTheBoss#9009  t!profile
+2018-02-23 22:35:37.051000 Tatsumaki#8792  🏧 | **JoshTheBoss**, **you received your 💴 200 daily credits!**
+2018-02-23 22:35:36.983000 JoshTheBoss#9009  t!dailies
+2018-02-22 13:28:57.842000 Tatsumaki#8792  🏧 | **OutrageouslyStealthyOstrich**, **you received your 💴 200 daily credits!**
+
+**Streak: <:b_:400807295363317760><:o_:400807295833079808><:nu:400807295845662721><:uu:400807296231538688><:su:400807295870697473>**
+2018-02-22 13:28:57.752000 OutrageouslyStealthyOstrich#0666  t!dailies
+2018-02-21 19:49:11.885000 OutrageouslyStealthyOstrich#0666  reeeeeeeeeeeeee
+2018-02-21 19:49:07.764000 Tatsumaki#8792  🏧  |  **OutrageouslyStealthyOstrich**, **daily 💴 credits reset in 3 hours, 10 minutes and 52 seconds.**
+2018-02-21 19:49:07.599000 OutrageouslyStealthyOstrich#0666  t!dailies
+2018-02-21 00:22:47.202000 Tatsumaki#8792  🏧 | **OutrageouslyStealthyOstrich**, **you received your 💴 200 daily credits!**
+
+**Streak: <:b_:400807295363317760><:ou:400807295933743105><:nu:400807295845662721><:uu:400807296231538688><:su:400807295870697473>**
+2018-02-21 00:22:47.066000 OutrageouslyStealthyOstrich#0666  t!dailies
+2018-02-21 00:13:55.893000 Tatsumaki#8792  🏧 | **Taisa Zero**, **you received your 💴 200 daily credits!**
+2018-02-21 00:13:55.692000 Taisa Zero#9806  t!dailies
+2018-02-20 22:16:02.508000 Tatsumaki#8792  🏧  |  **OutrageouslyStealthyOstrich**, **daily 💴 credits reset in 0 hours, 43 minutes and 57 seconds.**
+2018-02-20 22:16:02.358000 OutrageouslyStealthyOstrich#0666  t!dailies
+2018-02-20 03:42:01.572000 Tatsumaki#8792  🏧 | **OutrageouslyStealthyOstrich**, **you received your 💴 200 daily credits!**
+2018-02-20 03:42:01.407000 OutrageouslyStealthyOstrich#0666  t!dailies
+2018-02-19 19:03:16.365000 Tatsumaki#8792  📝  |  **User profile card for JoshTheBoss**
+2018-02-19 19:03:15.404000 JoshTheBoss#9009  t!profile
+2018-02-19 19:03:09.175000 Tatsumaki#8792  🏧 | **JoshTheBoss**, **you received your 💴 200 daily credits!**
+2018-02-19 19:03:08.538000 JoshTheBoss#9009  t!dailies
+2018-02-19 19:02:59.753000 JoshTheBoss#9009  t!dalies
+2018-02-18 16:29:59.149000 Tatsumaki#8792  🏧 | **OutrageouslyStealthyOstrich**, **you received your 💴 200 daily credits!**
+2018-02-18 16:29:58.641000 OutrageouslyStealthyOstrich#0666  t!dailies
+2018-02-17 21:56:15.512000 JoshTheBoss#9009  Boooooo
+2018-02-17 21:56:09.455000 Tatsumaki#8792  🏧  |  **JoshTheBoss**, **daily 💴 credits reset in 1 hours, 3 minutes and 50 seconds.**
+2018-02-17 21:56:09.271000 JoshTheBoss#9009  t!dailies
+2018-02-17 02:46:05.333000 Taisa Zero#9806  https://giphy.com/gifs/jimmy-fallon-hillary-clinton-donald-trump-BfrOzZpsjfuiQ
+2018-02-17 02:43:33.764000 OutrageouslyStealthyOstrich#0666  lol
+2018-02-17 02:43:29.279000 OutrageouslyStealthyOstrich#0666  okay
+2018-02-17 02:43:01.741000 Taisa Zero#9806  🤑
+2018-02-17 02:42:57.352000 Tatsumaki#8792  💳  |  **Taisa Zero**, **you have a balance of 💴 24112 credits!**
+2018-02-17 02:42:57.218000 Taisa Zero#9806  t!credits
+2018-02-17 02:42:52.321000 Tatsumaki#8792  🏧 | **Taisa Zero**, **you received your 💴 200 daily credits!**
+2018-02-17 02:42:52.022000 Taisa Zero#9806  t!dailies
+2018-02-17 02:40:58.055000 Tatsumaki#8792  📝  |  **User profile card for JoshTheBoss**
+2018-02-17 02:40:57.217000 JoshTheBoss#9009  t!profile
+2018-02-17 02:40:50.431000 Tatsumaki#8792  🏧 | **JoshTheBoss**, **you received your 💴 200 daily credits!**
+2018-02-17 02:40:50.218000 JoshTheBoss#9009  t!dailies
+2018-02-16 20:30:24.452000 Tatsumaki#8792  🏧 | **OutrageouslyStealthyOstrich**, **you received your 💴 200 daily credits!**
+
+**Streak: <:b_:400807295363317760><:ou:400807295933743105><:nu:400807295845662721><:uu:400807296231538688><:su:400807295870697473>**
+2018-02-16 20:30:22.657000 OutrageouslyStealthyOstrich#0666  t!dailies
+2018-02-16 20:30:14.125000 OutrageouslyStealthyOstrich#0666  t1dailies
+2018-02-15 00:12:24.511000 OutrageouslyStealthyOstrich#0666  yeeeeeeeee
+2018-02-15 00:12:19.428000 Tatsumaki#8792  📝  |  **User profile card for OutrageouslyStealthyOstrich**
+2018-02-15 00:12:18.918000 OutrageouslyStealthyOstrich#0666  t!profile
+2018-02-15 00:11:38.781000 OutrageouslyStealthyOstrich#0666  ree
+2018-02-15 00:11:35.047000 OutrageouslyStealthyOstrich#0666  t!profile
+2018-02-15 00:11:32.002000 Tatsumaki#8792  <:yes:390511463078428672>  |  **OutrageouslyStealthyOstrich**, you have successfully equipped the badge '**gameico_masseffect_badge**' into grid **1**!
+2018-02-15 00:11:31.894000 OutrageouslyStealthyOstrich#0666  1
+2018-02-15 00:11:29.392000 OutrageouslyStealthyOstrich#0666  01
+2018-02-15 00:11:23.964000 OutrageouslyStealthyOstrich#0666  t!badges equip
+2018-02-15 00:11:18.012000 Tatsumaki#8792  **`t!badges`** __`Badges customisation menu for profiles`__
+
+**Usage**: t!badges [redeem | equip | clear]
+
+**Examples:**
+**`t!badges redeem`**  opens the badge redemption menu
+**`t!badges equip`**  opens the badge equipment menu
+**`t!badges clear`**  clears all badges currently on profile
+2018-02-15 00:11:17.788000 OutrageouslyStealthyOstrich#0666  t!help badges
+2018-02-15 00:11:10.817000 Tatsumaki#8792  <:no:390511503238758400>  |  **OutrageouslyStealthyOstrich**, the correct usage is:  `t!badges [redeem | equip | clear]`
+▫  |  e.g. `t!badges redeem`
+▫  |  Get more help using `t!help badges`
+2018-02-15 00:11:10.612000 OutrageouslyStealthyOstrich#0666  t!badges
+2018-02-15 00:11:01.077000 Tatsumaki#8792  📝  |  **User profile card for OutrageouslyStealthyOstrich**
+2018-02-15 00:10:59.984000 OutrageouslyStealthyOstrich#0666  t!profile
+2018-02-15 00:10:29.289000 Tatsumaki#8792  <:yes:390511463078428672>  |  **OutrageouslyStealthyOstrich**, you have successfully purchased the badge '**Mass Effect**' for **2500** credits!
+2018-02-15 00:10:29.149000 OutrageouslyStealthyOstrich#0666  3631
+2018-02-15 00:10:21.071000 OutrageouslyStealthyOstrich#0666  2
+2018-02-15 00:10:17.835000 OutrageouslyStealthyOstrich#0666  10
+2018-02-15 00:10:13.406000 OutrageouslyStealthyOstrich#0666  10
+2018-02-15 00:10:07.012000 OutrageouslyStealthyOstrich#0666  10
+2018-02-15 00:10:01.196000 OutrageouslyStealthyOstrich#0666  9
+2018-02-15 00:09:56.922000 OutrageouslyStealthyOstrich#0666  2
+2018-02-15 00:09:55.446000 OutrageouslyStealthyOstrich#0666  2
+2018-02-15 00:09:53.839000 OutrageouslyStealthyOstrich#0666  t!badges redeem
+2018-02-15 00:09:43.772000 Tatsumaki#8792  🏧 | **OutrageouslyStealthyOstrich**, **you received your 💴 200 daily credits!**
+2018-02-15 00:09:43.632000 OutrageouslyStealthyOstrich#0666  t!dailies
+2018-02-13 19:29:14.403000 OutrageouslyStealthyOstrich#0666  reeeeeeeeeeeeeeeeeeeeeeeeeeee
+2018-02-13 19:29:10.397000 Tatsumaki#8792  💳  |  **OutrageouslyStealthyOstrich**, **you have a balance of 💴 2490 credits!**
+2018-02-13 19:29:10.255000 OutrageouslyStealthyOstrich#0666  t!credits
+2018-02-13 19:29:05.808000 Tatsumaki#8792  🏧 | **OutrageouslyStealthyOstrich**, **you received your 💴 200 daily credits!**
+
+**Streak: <:b_:400807295363317760><:ou:400807295933743105><:nu:400807295845662721><:uu:400807296231538688><:su:400807295870697473>**
+2018-02-13 19:29:05.735000 OutrageouslyStealthyOstrich#0666  t!dailies
+2018-02-12 03:47:39.167000 JoshTheBoss#9009  lol only level 7
+2018-02-12 03:47:23.292000 Tatsumaki#8792  📝  |  **User profile card for JoshTheBoss**
+2018-02-12 03:47:22.558000 JoshTheBoss#9009  t!profile
+2018-02-12 03:46:59.851000 JoshTheBoss#9009  t!level
+2018-02-12 03:46:34.705000 Tatsumaki#8792  💳  |  **JoshTheBoss**, **you have a balance of 💴 1290 credits!**
+2018-02-12 03:46:34.545000 JoshTheBoss#9009  t!credits
+2018-02-12 01:14:30.978000 Tatsumaki#8792  🆙  |  **OutrageouslyStealthyOstrich leveled up!**
+2018-02-12 01:14:30.498000 Tatsumaki#8792  💳  |  **OutrageouslyStealthyOstrich**, **you have a balance of 💴 2270 credits!**
+2018-02-12 01:14:30.442000 OutrageouslyStealthyOstrich#0666  t!credits
+2018-02-12 01:04:34.437000 Tatsumaki#8792  <:no:390511503238758400>  |  **JoshTheBoss**, you need **710** more credits to purchase this badge!
+2018-02-12 01:04:34.283000 JoshTheBoss#9009  2
+2018-02-12 01:04:32.078000 JoshTheBoss#9009  1
+2018-02-12 01:04:29.955000 JoshTheBoss#9009  2
+2018-02-12 01:04:28.055000 JoshTheBoss#9009  t!badges redeem
+2018-02-12 01:04:15.863000 Tatsumaki#8792  🏧 | **JoshTheBoss**, **you received your 💴 200 daily credits!**
+2018-02-12 01:04:15.777000 JoshTheBoss#9009  t!dailies
+2018-02-12 00:52:52.239000 Tatsumaki#8792  🏧 | **OutrageouslyStealthyOstrich**, **you received your 💴 200 daily credits!**
+2018-02-12 00:52:52.125000 OutrageouslyStealthyOstrich#0666  t!dailies
+2018-02-12 00:52:03.511000 Tatsumaki#8792  <:no:390511503238758400>  |  **JoshTheBoss**, you need **913** more credits to purchase this badge!
+2018-02-12 00:52:03.369000 JoshTheBoss#9009  2
+2018-02-12 00:51:55.994000 JoshTheBoss#9009  1
+2018-02-12 00:51:50.527000 JoshTheBoss#9009  2
+2018-02-12 00:51:48.308000 JoshTheBoss#9009  t!badges redeem
+2018-02-12 00:51:33.823000 Tatsumaki#8792  📛  |  **JoshTheBoss**, you currently do not have any redeemable badges. Check back later!
+2018-02-12 00:51:33.637000 JoshTheBoss#9009  1
+2018-02-12 00:51:29.500000 JoshTheBoss#9009  t!badges redeem
+2018-02-07 16:10:20.647000 Tatsumaki#8792  ⬅  |  **OutrageouslyStealthyOstrich**, you have exited the badges menu.
+2018-02-07 16:10:20.465000 OutrageouslyStealthyOstrich#0666  exit
+2018-02-07 16:10:16.490000 OutrageouslyStealthyOstrich#0666  2
+2018-02-07 16:10:14.608000 OutrageouslyStealthyOstrich#0666  2
+2018-02-07 16:10:11.668000 OutrageouslyStealthyOstrich#0666  t!badges redeem
+2018-02-07 16:10:03.838000 Tatsumaki#8792  <:no:390511503238758400>  |  **OutrageouslyStealthyOstrich**, the correct usage is:  `t!badges [redeem | equip | clear]`
+▫  |  e.g. `t!badges redeem`
+▫  |  Get more help using `t!help badges`
+2018-02-07 16:10:03.186000 OutrageouslyStealthyOstrich#0666  t!badges help
+2018-02-07 16:09:57.644000 OutrageouslyStealthyOstrich#0666  t!badges?
+2018-02-07 16:09:47.843000 Tatsumaki#8792  💳  |  **OutrageouslyStealthyOstrich**, **you have a balance of 💴 2040 credits!**
+2018-02-07 16:09:47.628000 OutrageouslyStealthyOstrich#0666  t!credits
+2018-02-07 16:09:40.555000 Tatsumaki#8792  🏧 | **OutrageouslyStealthyOstrich**, **you received your 💴 200 daily credits!**
+2018-02-07 16:09:40.360000 OutrageouslyStealthyOstrich#0666  t!dailies
+2018-02-07 00:34:26.107000 Tatsumaki#8792  🏧 | **meimeister**, **you received your 💴 200 daily credits!**
+
+**Streak: <:b_:400807295363317760><:ou:400807295933743105><:nu:400807295845662721><:uu:400807296231538688><:su:400807295870697473>**
+2018-02-07 00:34:25.937000 meimeister#6054  t!dailies
+2018-02-06 20:46:05.761000 Tatsumaki#8792  🏧 | **jelloh**, **you received your 💴 200 daily credits!**
+2018-02-06 20:46:05.558000 jelloh#0752  t!dailies
+2018-01-30 19:06:14.377000 Tatsumaki#8792  🏧 | **OutrageouslyStealthyOstrich**, **you received your 💴 200 daily credits!**
+2018-01-30 19:06:14.228000 OutrageouslyStealthyOstrich#0666  t!dailies
+2018-01-27 23:36:03.612000 Tatsumaki#8792  🏧 | **OutrageouslyStealthyOstrich**, **you received your 💴 200 daily credits!**
+2018-01-27 23:36:03.455000 OutrageouslyStealthyOstrich#0666  t!dailies
+2018-01-26 19:29:45.003000 Tatsumaki#8792  💳  |  **OutrageouslyStealthyOstrich**, **you have a balance of 💴 1245 credits!**
+2018-01-26 19:29:44.794000 OutrageouslyStealthyOstrich#0666  t!credits
+2018-01-26 19:29:40.612000 Tatsumaki#8792  🏧 | **OutrageouslyStealthyOstrich**, **you received your 💴 200 daily credits!**
+2018-01-26 19:29:40.425000 OutrageouslyStealthyOstrich#0666  t!dailies
+2018-01-26 16:36:44.818000 Tatsumaki#8792  📝  |  **User profile card for JoshTheBoss**
+2018-01-26 16:36:44.106000 JoshTheBoss#9009  t!profile
+2018-01-26 16:36:11.319000 JoshTheBoss#9009  !points
+2018-01-24 19:19:32.137000 Taisa Zero#9806  ttyl
+2018-01-24 16:48:19.158000 OutrageouslyStealthyOstrich#0666  :/
+2018-01-24 16:47:58.135000 Taisa Zero#9806  plz
+2018-01-24 16:47:57.004000 Taisa Zero#9806  discord will block it
+2018-01-24 16:47:52.986000 Taisa Zero#9806  dont use more than 10
+2018-01-24 16:47:41.850000 Taisa Zero#9806  that's too much
+2018-01-24 16:47:29.371000 OutrageouslyStealthyOstrich#0666  !spamasshat2 hi 100
+2018-01-24 16:47:07.795000 C.C.#0308  <@!175826482923438081> omw
+2018-01-24 16:47:07.497000 C.C.#0308  <@!175826482923438081> omw
+2018-01-24 16:47:07.113000 C.C.#0308  <@!175826482923438081> omw
+2018-01-24 16:47:06.824000 C.C.#0308  <@!175826482923438081> omw
+2018-01-24 16:47:06.647000 C.C.#0308  <@!175826482923438081> omw
+2018-01-24 16:47:01.228000 C.C.#0308  <@!175826482923438081> omw
+2018-01-24 16:47:00.840000 C.C.#0308  <@!175826482923438081> omw
+2018-01-24 16:47:00.718000 C.C.#0308  <@!175826482923438081> omw
+2018-01-24 16:47:00.561000 C.C.#0308  <@!175826482923438081> omw
+2018-01-24 16:47:00.302000 C.C.#0308  <@!175826482923438081> omw
+2018-01-24 16:46:53.053000 Taisa Zero#9806  !c spamasshat omw
+2018-01-24 16:46:44.423000 OutrageouslyStealthyOstrich#0666  😦
+2018-01-24 16:46:38.888000 OutrageouslyStealthyOstrich#0666  oh
+2018-01-24 16:46:34.778000 Taisa Zero#9806  it was offline
+2018-01-24 16:46:24.844000 OutrageouslyStealthyOstrich#0666  !c spamasshat omw
+2018-01-24 16:45:56.569000 C.C.#0308  
+2018-01-24 16:45:55.928000 Taisa Zero#9806  !c commands
+2018-01-24 16:45:51.608000 Taisa Zero#9806  <@!235841803771707395>  use !c commands
+2018-01-24 16:44:55.704000 OutrageouslyStealthyOstrich#0666  !c text <@!235841803771707395>
+2018-01-24 16:44:43.388000 OutrageouslyStealthyOstrich#0666  does it say anything other than hi?
+2018-01-24 16:44:23.472000 Taisa Zero#9806  😉
+2018-01-24 16:44:13.355000 OutrageouslyStealthyOstrich#0666  !c text <@!235841803771707395>
+2018-01-24 16:43:48.802000 Taisa Zero#9806  !c text <@!174629000134524928>
+2018-01-24 16:35:38.583000 Tatsumaki#8792  💳  |  **3:D**, **you have a balance of 💴 5133 credits!**
+2018-01-24 16:35:38.538000 3:D#8107  t!credits
+2018-01-24 16:33:44.223000 Tatsumaki#8792  <:no:390511503238758400>  |  **OutrageouslyStealthyOstrich**, the command menu has closed due to inactivity.
+2018-01-24 16:32:43.741000 OutrageouslyStealthyOstrich#0666  2
+2018-01-24 16:32:41.109000 OutrageouslyStealthyOstrich#0666  2
+2018-01-24 16:32:37.238000 OutrageouslyStealthyOstrich#0666  t!badges redeem
+2018-01-24 16:32:31.047000 Tatsumaki#8792  **`t!badges`** __`Badges customisation menu for profiles`__
+
+**Usage**: t!badges [redeem | equip | clear]
+
+**Examples:**
+**`t!badges redeem`**  opens the badge redemption menu
+**`t!badges equip`**  opens the badge equipment menu
+**`t!badges clear`**  clears all badges currently on profile
+2018-01-24 16:32:30.838000 OutrageouslyStealthyOstrich#0666  t!help badges
+2018-01-24 16:32:24.606000 Tatsumaki#8792  <:no:390511503238758400>  |  **OutrageouslyStealthyOstrich**, the correct usage is:  `t!badges [redeem | equip | clear]`
+▫  |  e.g. `t!badges equip`
+▫  |  Get more help using `t!help badges`
+2018-01-24 16:32:24.496000 OutrageouslyStealthyOstrich#0666  t!badges
+2018-01-24 16:32:11.430000 Tatsumaki#8792  💳  |  **OutrageouslyStealthyOstrich**, **you have a balance of 💴 1001 credits!**
+2018-01-24 16:32:11.221000 OutrageouslyStealthyOstrich#0666  t!credits
+2018-01-24 16:31:36.408000 3:D#8107  ...........................................................................................
+2018-01-24 16:31:18.336000 Tatsumaki#8792  ```rb
+`Standard Commands List`
+```
+Use `t!help [command]` to get more info on a specific command, for example: `t!help rank`
+
+**1. Core - **`help` `leveledroles` `ping` `selfroles` `support` 
+**2. Social - **`background` `badges` `dailies` `profile` `rank` `reputation` `setinfo` `settitle` `top` 
+**3. Fun - **`8ball` `cah` `cat` `catfacts` `choose` `coin` `cookie` `dice` `dog` `dogfacts` `fishy` `fortune` `numberfacts` `psychopass` `ratewaifu` `reverse` `rps` `slots` `tags` 
+**4. Economy - **`credits` `points` 
+**5. Utilities - **`color` `converter` `google` `image` `lotto` `math` `remindme` `shorten` `stocks` `strawpoll` `todo` `urban` `vote` `weather` `wiki` `youtube` 
+**6. Information - **`apikey` `avatar` `botlist` `changelog` `channel` `info` `role` `server` `shared` `usage` 
+**7. Anime - **`anime` `manga` `osu` `sic` 
+**8. Memes - **`beautiful` `hackerman` 
+
+```pl
+# Don't include the example brackets when using commands!
+# To view mod commands, use t@help
+```
+2018-01-24 16:31:18.197000 OutrageouslyStealthyOstrich#0666  t!help
+2018-01-24 16:31:17.192000 3:D#8107  ....../....................................................................................
+2018-01-24 16:31:06.937000 OutrageouslyStealthyOstrich#0666  t!hfioewhapog
+2018-01-24 16:31:00.863000 OutrageouslyStealthyOstrich#0666  t! fhoweanfpij
+2018-01-24 16:30:58.310000 Taisa Zero#9806  cuz they think it's irrelavant
+2018-01-24 16:30:48.771000 OutrageouslyStealthyOstrich#0666  t!
+2018-01-24 16:30:44.890000 3:D#8107  may i know why
+2018-01-24 16:30:42.830000 OutrageouslyStealthyOstrich#0666  t! help
+2018-01-24 16:30:39.464000 3:D#8107  REEEE
+2018-01-24 16:30:38.348000 3:D#8107  ??
+2018-01-24 16:30:35.865000 3:D#8107  hours
+2018-01-24 16:30:35.498000 Taisa Zero#9806  yes
+2018-01-24 16:30:33.782000 3:D#8107  5
+2018-01-24 16:30:33.196000 3:D#8107  in
+2018-01-24 16:30:32.554000 3:D#8107  we have
+2018-01-24 16:30:31.436000 3:D#8107  presentation
+2018-01-24 16:30:29.644000 3:D#8107  fucking
+2018-01-24 16:30:27.387000 3:D#8107  this
+2018-01-24 16:30:26.535000 3:D#8107  over
+2018-01-24 16:30:25.163000 Taisa Zero#9806  im serious
+2018-01-24 16:30:24.800000 3:D#8107  your waifu
+2018-01-24 16:30:22.279000 3:D#8107  you are testing
+2018-01-24 16:30:21.878000 Taisa Zero#9806  nope
+2018-01-24 16:30:19.602000 3:D#8107  kidding me
+2018-01-24 16:30:17.884000 3:D#8107  fucking
+2018-01-24 16:30:16.751000 3:D#8107  are you
+2018-01-24 16:30:15.538000 Taisa Zero#9806  WWWWWWWWWWWWWWWWWWww
+2018-01-24 16:30:14.554000 3:D#8107  erfan
+2018-01-24 16:30:13.702000 Taisa Zero#9806  it works
+2018-01-24 16:30:09.370000 Taisa Zero#9806  !c text <@!174629000134524928>
+2018-01-24 16:29:53.586000 Tatsumaki#8792  📝  |  **User profile card for OutrageouslyStealthyOstrich**
+2018-01-24 16:29:52.771000 OutrageouslyStealthyOstrich#0666  t!profile
+2018-01-24 16:29:34.872000 Tatsumaki#8792  📝  |  **User profile card for 3:D**
+2018-01-24 16:29:34.155000 3:D#8107  t!profile
+2018-01-24 16:29:30.965000 Tatsumaki#8792  🏧 | **3:D**, **you received your 💴 200 daily credits!**
+2018-01-24 16:29:30.825000 3:D#8107  t!dailies
+2018-01-24 16:29:15.195000 Tatsumaki#8792  🏧 | **OutrageouslyStealthyOstrich**, **you received your 💴 200 daily credits!**
+2018-01-24 16:29:15.044000 OutrageouslyStealthyOstrich#0666  t!dailies
+2018-01-24 16:26:57.160000 Taisa Zero#9806  !c text <@!174629000134524928>
+2018-01-24 16:25:23.650000 Taisa Zero#9806  c! text <@!174629000134524928>
+2018-01-15 06:11:50.715000 Tatsumaki#8792  🏧 | **OutrageouslyStealthyOstrich**, **you received your 💴 200 daily credits!**
+
+**Streak: <:b_:400807295363317760><:ou:400807295933743105><:nu:400807295845662721><:uu:400807296231538688><:su:400807295870697473>**
+2018-01-15 06:11:50.585000 OutrageouslyStealthyOstrich#0666  t!dailies
+2018-01-15 06:11:41.425000 Tatsumaki#8792  🏧 | **meimeister**, **you received your 💴 200 daily credits!**
+
+**Streak: <:b_:400807295363317760><:ou:400807295933743105><:nu:400807295845662721><:uu:400807296231538688><:su:400807295870697473>**
+2018-01-15 06:11:41.214000 meimeister#6054  t!dailies
+2018-01-15 06:11:40.690000 Tatsumaki#8792  ```rb
+`Standard Commands List`
+```
+Use `t!help [command]` to get more info on a specific command, for example: `t!help rank`
+
+**1. Core - **`help` `leveledroles` `ping` `selfroles` `support` 
+**2. Social - **`background` `badges` `dailies` `profile` `rank` `reputation` `setinfo` `settitle` `top` 
+**3. Fun - **`8ball` `cah` `cat` `catfacts` `choose` `coin` `cookie` `dice` `dog` `dogfacts` `fishy` `fortune` `numberfacts` `psychopass` `ratewaifu` `reverse` `rps` `slots` `tags` 
+**4. Economy - **`credits` `points` 
+**5. Utilities - **`color` `converter` `google` `image` `lotto` `math` `remindme` `shorten` `stocks` `strawpoll` `todo` `urban` `vote` `weather` `wiki` `youtube` 
+**6. Information - **`apikey` `avatar` `botlist` `changelog` `channel` `info` `role` `server` `shared` `usage` 
+**7. Anime - **`anime` `manga` `osu` `sic` 
+**8. Memes - **`beautiful` `hackerman` 
+
+```pl
+# Don't include the example brackets when using commands!
+# To view mod commands, use t@help
+```
+2018-01-15 06:11:40.638000 OutrageouslyStealthyOstrich#0666  t!help
+2018-01-15 06:11:27.993000 OutrageouslyStealthyOstrich#0666  t!dalies
+2018-01-14 20:58:30.331000 Tatsumaki#8792  🆙  |  **Taisa Zero has given <@398547071545638923> a reputation point!**
+2018-01-14 20:58:30.131000 Taisa Zero#9806  t!reputation <@398547071545638923>
+2018-01-14 20:39:16.480000 Tatsumaki#8792  🆙  |  **OutrageouslyStealthyOstrich**, **please mention a valid user!**
+2018-01-14 20:39:16.061000 OutrageouslyStealthyOstrich#0666  t!reputation <@&399697847722835971>
+2018-01-14 18:35:50.637000 JoshTheBoss#9009  Hehe
+2018-01-14 18:35:38.062000 Tatsumaki#8792  📝  |  **User profile card for JoshTheBoss**
+2018-01-14 18:35:37.509000 JoshTheBoss#9009  t!profile
+2018-01-14 18:35:15.082000 Tatsumaki#8792  🆙  |  **JoshTheBoss**, **you can award a reputation point!**
+2018-01-14 18:35:14.835000 JoshTheBoss#9009  t!reputation
+2018-01-14 18:34:44.531000 JoshTheBoss#9009  T!followage
+2018-01-14 17:07:55.246000 OutrageouslyStealthyOstrich#0666  reeeeeeeeeeeeee
+2018-01-14 17:07:50.886000 Tatsumaki#8792  🏧  |  **OutrageouslyStealthyOstrich**, **daily 💴 credits reset in 5 hours, 52 minutes and 9 seconds.**
+2018-01-14 17:07:50.672000 OutrageouslyStealthyOstrich#0666  t!dailies
+2018-01-14 02:34:52.154000 OutrageouslyStealthyOstrich#0666  🙂 🙃 🙂 🙃 🙂 🙃 🙂 🙃 🙂 🙃 😑 \
+2018-01-14 02:34:02.275000 Tatsumaki#8792  <:no:390511503238758400>  |  **OutrageouslyStealthyOstrich**, **you cannot give yourself reputation!**
+2018-01-14 02:34:02.073000 OutrageouslyStealthyOstrich#0666  t!reputation <@!235841803771707395>
+2018-01-14 02:33:39.587000 Tatsumaki#8792  🆙  |  **OutrageouslyStealthyOstrich**, **you can award a reputation point!**
+2018-01-14 02:33:39.371000 OutrageouslyStealthyOstrich#0666  t!reputation
+2018-01-14 02:33:25.107000 Tatsumaki#8792  **`t!reputation`** __`Award someone a reputation point. Can only be used once every 24 hours.`__
+**Aliases**: `rep`
+
+**Usage**: t!reputation <user>
+
+**Examples:**
+**`t!reputation `**  checks your reputation cooldown
+**`t!reputation @somebody`**  gives somebody a reputation point
+2018-01-14 02:33:24.940000 OutrageouslyStealthyOstrich#0666  t!help reputation
+2018-01-14 02:32:56.586000 Tatsumaki#8792  📝  |  **User profile card for OutrageouslyStealthyOstrich**
+2018-01-14 02:32:56.105000 OutrageouslyStealthyOstrich#0666  t!profile
+2018-01-14 02:32:48.701000 Tatsumaki#8792  <:yes:390511463078428672>  |  **OutrageouslyStealthyOstrich**, your info box text has been successfully **updated**!
+2018-01-14 02:32:48.509000 OutrageouslyStealthyOstrich#0666  t!setinfo Cant find your stuff? Stealthy Ostrich. Cant find your Ostrich? Outrageously Stealthy Ostrich
+2018-01-14 02:31:40.858000 Tatsumaki#8792  📝  |  **User profile card for OutrageouslyStealthyOstrich**
+2018-01-14 02:31:40.351000 OutrageouslyStealthyOstrich#0666  t!profile
+2018-01-14 02:31:34.974000 Tatsumaki#8792  <:yes:390511463078428672>  |  **OutrageouslyStealthyOstrich**, your info box text has been successfully **updated**!
+2018-01-14 02:31:34.850000 OutrageouslyStealthyOstrich#0666  t!setinfo Cant find your stuff? Stealthy Ostrich
+Cant find your Ostrich? Outrageously Stealthy Ostrich
+2018-01-14 02:31:21.916000 OutrageouslyStealthyOstrich#0666  t!setinfor Cant find your stuff? Stealthy Ostrich
+Cant find your Ostrich? Outrageously Stealthy Ostrich
+2018-01-14 02:30:26.767000 Tatsumaki#8792  📝  |  **User profile card for OutrageouslyStealthyOstrich**
+2018-01-14 02:30:26.185000 OutrageouslyStealthyOstrich#0666  t!profile
+2018-01-14 02:30:22.499000 Tatsumaki#8792  <:yes:390511463078428672>  |  **OutrageouslyStealthyOstrich**, your info box text has been successfully **updated**!
+2018-01-14 02:30:22.264000 OutrageouslyStealthyOstrich#0666  t!setinfo Cant find your watch? Cant find your glasses? Stealthy Ostrich
+Cant find your Ostrich? Outrageously Stealthy Ostrich
+2018-01-14 02:18:28.874000 Tatsumaki#8792  💳  |  **OutrageouslyStealthyOstrich**, **you have a balance of 💴 390 credits!**
+2018-01-14 02:18:28.736000 OutrageouslyStealthyOstrich#0666  t!credits
+2018-01-14 02:18:03.186000 Tatsumaki#8792  <:no:390511503238758400>  |  **OutrageouslyStealthyOstrich**, you used more than 125 characters! Info box not set.
+2018-01-14 02:18:03.027000 OutrageouslyStealthyOstrich#0666  t!setinfo Cant find your watch? Stealthy Ostrich
+Cant find your glasses? Stealthy Ostrich
+Cant find your Ostrich? Outrageously Stealthy Ostrich
+2018-01-14 02:17:40.796000 Tatsumaki#8792  <:no:390511503238758400>  |  **OutrageouslyStealthyOstrich**, you used more than 125 characters! Info box not set.
+2018-01-14 02:17:40.685000 OutrageouslyStealthyOstrich#0666  t!setinfo Cant find your watch? Stealthy Ostrich
+Cant find your glasses? Stealthy Ostrich
+Cant find your kids? Stealthy Ostrich
+Cant find your Ostrich? Outrageously Stealthy Ostrich
+2018-01-14 02:15:50.723000 Tatsumaki#8792  **`t!setinfo`** __`Set the text shown on your profile info box. Maximum of 125 characters. Leave blank to reset it.`__
+
+**Usage**: t!setinfo [text]
+
+**Examples:**
+**`t!setinfo `**  resets your info box
+**`t!setinfo I love school and homework!`**  will set your profile info box to `I love school and homework!`
+2018-01-14 02:15:50.629000 OutrageouslyStealthyOstrich#0666  t!help setinfo
+2018-01-14 02:15:27.056000 Tatsumaki#8792  **`t!avatar`** __`Gets a user's avatar. Can mention multiple users. Use the server tag to get the server's icon.`__
+
+**Usage**: t!avatar <[user 1] [user 2] [user 3] [user 4]> <server>
+
+**Examples:**
+**`t!avatar `**  gets your avatar URL
+**`t!avatar @user1 @user2`**  gets the avatar URLs for user1 and user2
+**`t!avatar server`**  gets the server's icon URL
+2018-01-14 02:15:26.951000 OutrageouslyStealthyOstrich#0666  t!help avatar
+2018-01-14 02:15:00.951000 Tatsumaki#8792  ```rb
+`Standard Commands List`
+```
+Use `t!help [command]` to get more info on a specific command, for example: `t!help rank`
+
+**1. Core - **`help` `leveledroles` `ping` `selfroles` `support` 
+**2. Social - **`background` `badges` `dailies` `profile` `rank` `reputation` `setinfo` `settitle` `top` 
+**3. Fun - **`8ball` `cah` `cat` `catfacts` `choose` `coin` `cookie` `dice` `dog` `dogfacts` `fishy` `fortune` `numberfacts` `psychopass` `ratewaifu` `reverse` `rps` `slots` `tags` 
+**4. Economy - **`credits` `points` 
+**5. Utilities - **`color` `converter` `google` `image` `lotto` `math` `remindme` `shorten` `stocks` `strawpoll` `todo` `urban` `vote` `weather` `wiki` `youtube` 
+**6. Information - **`apikey` `avatar` `botlist` `changelog` `channel` `info` `role` `server` `shared` `usage` 
+**7. Anime - **`anime` `manga` `osu` `sic` 
+**8. Memes - **`beautiful` `hackerman` 
+
+```pl
+# Don't include the example brackets when using commands!
+# To view mod commands, use t@help
+```
+2018-01-14 02:15:00.796000 OutrageouslyStealthyOstrich#0666  t!help
+2018-01-14 02:10:49.080000 Tatsumaki#8792  🏙  |  **Guild Score Leaderboards for EHEHEHEHEHEHE**
+
+```pl
+📋 Rank | Name
+
+[1]     > #Taisa Zero
+			Total Score: 16019     
+[2]     > #jelloh
+			Total Score: 15205     
+[3]     > #jokellum
+			Total Score: 11052     
+[4]     > #3:D
+			Total Score: 6518      
+[5]     > #tjobarow ( ͡° ͜ʖ ͡°)
+			Total Score: 1791      
+[6]     > #JoshTheBoss
+			Total Score: 227       
+[7]     > #meimeister
+			Total Score: 221       
+[8]     > #OutrageouslyStealthyOstrich
+			Total Score: 136       
+[9]     > #Sandra
+			Total Score: 118       
+[10]    > #User Left Guild (Discord ID: 226568629657796609)
+			Total Score: 55        
+-------------------------------------
+# Your Guild Placing Stats
+😐 Rank: 8	Total Score: 136
+```
+2018-01-14 02:10:48.989000 OutrageouslyStealthyOstrich#0666  t!top
+2018-01-14 02:10:25.216000 Tatsumaki#8792  **`t!top`** __`Display members with the highest guild score or global XP`__
+**Aliases**: `top10`
+
+**Usage**: t!top guild [page] | global [page]
+
+**Examples:**
+**`t!top `**  displays the top 10 guild score rankings
+**`t!top global`**  displays the top 10 global xp rankings
+**`t!top guild 3`**  displays page 3 of the guild score rankings
+**`t!top global 6`**  displays page 6 of the global XP rankings
+2018-01-14 02:10:24.985000 OutrageouslyStealthyOstrich#0666  t!help top
+2018-01-14 02:09:55.878000 Tatsumaki#8792  **`t!color`** __`Displays and converts a color when given a hex ID, HSL value, RGB value, CYMK value, or CSS name.`__
+**Aliases**: `colour`, `c`
+
+**Usage**: t!color <color value>
+
+**Examples:**
+**`t!color #ffffff`**  Displays and converts the color white
+**`t!color rgb(0, 0, 0)`**  Displays and converts the color black
+**`t!color hsl(0, 100%, 50%)`**  Displays and converts the color red
+**`t!color cmyk(100%, 100%, 100%, 100%)`**  Displays and converts the color black
+**`t!color blue`**  Displays and converts the color blue
+2018-01-14 02:09:55.736000 OutrageouslyStealthyOstrich#0666  t!help color
+2018-01-14 02:09:25.807000 Tatsumaki#8792  📝  |  **User profile card for OutrageouslyStealthyOstrich**
+2018-01-14 02:09:25.190000 OutrageouslyStealthyOstrich#0666  t!profile
+2018-01-14 02:08:50.889000 Tatsumaki#8792  **`t!settitle`** __`Set your profile title text (shown below your name). Maximum of 23 characters. Leave blank to reset it.`__
+
+**Usage**: t!settitle [title]
+
+**Examples:**
+**`t!settitle `**  resets your title
+**`t!settitle Tatsumaki's Slave`**  will set your profile title to `Tatsumaki's Slave`
+2018-01-14 02:08:50.766000 OutrageouslyStealthyOstrich#0666  t!help settitle
+2018-01-14 02:08:37.302000 Tatsumaki#8792  <:yes:390511463078428672>  |  **OutrageouslyStealthyOstrich**, your title text has been successfully **reset**!
+2018-01-14 02:08:37.197000 OutrageouslyStealthyOstrich#0666  t!settitle
+2018-01-14 02:07:23.571000 Tatsumaki#8792  <:no:390511503238758400>  |  **OutrageouslyStealthyOstrich**, the command menu has closed due to inactivity.
+2018-01-14 02:06:23.344000 OutrageouslyStealthyOstrich#0666  10
+2018-01-14 02:06:17.519000 OutrageouslyStealthyOstrich#0666  10
+2018-01-14 02:06:08.333000 OutrageouslyStealthyOstrich#0666  10
+2018-01-14 02:05:56.363000 OutrageouslyStealthyOstrich#0666  9
+2018-01-14 02:05:39.833000 OutrageouslyStealthyOstrich#0666  2
+2018-01-14 02:05:34.849000 OutrageouslyStealthyOstrich#0666  2
+2018-01-14 02:05:32.931000 OutrageouslyStealthyOstrich#0666  t!badges redeem
+2018-01-14 02:05:13.260000 Tatsumaki#8792  📛  |  **OutrageouslyStealthyOstrich**, you currently do not have any redeemable badges. Check back later!
+2018-01-14 02:05:13.122000 OutrageouslyStealthyOstrich#0666  1
+2018-01-14 02:05:05.380000 OutrageouslyStealthyOstrich#0666  t!badges redeem
+2018-01-14 02:04:48.235000 Tatsumaki#8792  **`t!badges`** __`Badges customisation menu for profiles`__
+
+**Usage**: t!badges [redeem | equip | clear]
+
+**Examples:**
+**`t!badges redeem`**  opens the badge redemption menu
+**`t!badges equip`**  opens the badge equipment menu
+**`t!badges clear`**  clears all badges currently on profile
+2018-01-14 02:04:48.100000 OutrageouslyStealthyOstrich#0666  t!help badges
+2018-01-14 02:04:36.287000 Tatsumaki#8792  <:no:390511503238758400>  |  **OutrageouslyStealthyOstrich**, the correct usage is:  `t!badges [redeem | equip | clear]`
+▫  |  e.g. `t!badges equip`
+▫  |  Get more help using `t!help badges`
+2018-01-14 02:04:36.207000 OutrageouslyStealthyOstrich#0666  t!badges
+2018-01-14 02:04:18.716000 Tatsumaki#8792  📋  |  **OutrageouslyStealthyOstrich**, This guild has no leveled roles set.
+2018-01-14 02:04:18.610000 OutrageouslyStealthyOstrich#0666  t!leveledroles
+2018-01-14 02:04:05.776000 Tatsumaki#8792  ```rb
+`Standard Commands List`
+```
+Use `t!help [command]` to get more info on a specific command, for example: `t!help rank`
+
+**1. Core - **`help` `leveledroles` `ping` `selfroles` `support` 
+**2. Social - **`background` `badges` `dailies` `profile` `rank` `reputation` `setinfo` `settitle` `top` 
+**3. Fun - **`8ball` `cah` `cat` `catfacts` `choose` `coin` `cookie` `dice` `dog` `dogfacts` `fishy` `fortune` `numberfacts` `psychopass` `ratewaifu` `reverse` `rps` `slots` `tags` 
+**4. Economy - **`credits` `points` 
+**5. Utilities - **`color` `converter` `google` `image` `lotto` `math` `remindme` `shorten` `stocks` `strawpoll` `todo` `urban` `vote` `weather` `wiki` `youtube` 
+**6. Information - **`apikey` `avatar` `botlist` `changelog` `channel` `info` `role` `server` `shared` `usage` 
+**7. Anime - **`anime` `manga` `osu` `sic` 
+**8. Memes - **`beautiful` `hackerman` 
+
+```pl
+# Don't include the example brackets when using commands!
+# To view mod commands, use t@help
+```
+2018-01-14 02:04:05.638000 OutrageouslyStealthyOstrich#0666  t!help
+2018-01-14 01:57:59.107000 meimeister#6054  :>
+2018-01-14 01:57:57.647000 Taisa Zero#9806  LOL
+2018-01-14 01:57:56.825000 meimeister#6054  jkjkkjk
+2018-01-14 01:57:55.074000 meimeister#6054  or can i 🤔
+2018-01-14 01:57:47.386000 meimeister#6054  heuheuh
+2018-01-14 01:57:46.098000 Tatsumaki#8792  🤔  |  **meimeister**, I'd give 3:D a 6/10
+2018-01-14 01:57:46.023000 meimeister#6054  t!ratewaifu <@!175826482923438081>
+2018-01-14 01:57:37.441000 Taisa Zero#9806  can't marry urself <@!250095420775071744>
+2018-01-14 01:57:20.783000 Taisa Zero#9806  I0I
+2018-01-14 01:57:18.382000 meimeister#6054  LOL
+2018-01-14 01:57:17.523000 meimeister#6054  😄
+2018-01-14 01:57:12.893000 meimeister#6054  yay hueheuh
+2018-01-14 01:57:11.197000 meimeister#6054  ooooo
+2018-01-14 01:57:09.738000 Taisa Zero#9806  😉
+2018-01-14 01:57:06.623000 meimeister#6054  LMAO
+2018-01-14 01:57:06.503000 Tatsumaki#8792  🤔  |  **Taisa Zero**, I'd give meimeister a 10/10
+2018-01-14 01:57:06.356000 Taisa Zero#9806  t!ratewaifu <@!250095420775071744>
+2018-01-14 01:57:05.709000 meimeister#6054  WAO
+2018-01-14 01:57:03.146000 Tatsumaki#8792  🤔  |  **meimeister**, I'd give Alexandria a 2/10
+2018-01-14 01:57:02.988000 meimeister#6054  t!ratewaifu Alexandria
+2018-01-14 01:56:49.798000 Tatsumaki#8792  <:no:390511503238758400>  |  **meimeister**, the correct usage is:  `t!ratewaifu <waifu>`
+▫  |  e.g. `t!ratewaifu Tatsumaki`
+▫  |  Get more help using `t!help ratewaifu`
+2018-01-14 01:56:49.560000 meimeister#6054  t!ratewaifu
+2018-01-14 01:56:37.087000 Tatsumaki#8792  ⌨  |  **Hackerman meimeister**
+```dsconfig
+indexing the bus won't do anything, we need to parse the bluetooth PCI firewall!```
+2018-01-14 01:56:35.728000 meimeister#6054  t!hackerman
+2018-01-14 01:56:32.173000 meimeister#6054  t!memes
+2018-01-14 01:56:13.358000 Tatsumaki#8792  📝  |  **User profile card for meimeister**
+2018-01-14 01:56:12.945000 meimeister#6054  t!profile
+2018-01-14 01:56:06.695000 Tatsumaki#8792  <:yes:390511463078428672>  |  **meimeister**, your info box has been successfully **reset**!
+2018-01-14 01:56:06.556000 meimeister#6054  t!setinfo
+2018-01-14 01:56:00.111000 Tatsumaki#8792  ```rb
+`Standard Commands List`
+```
+Use `t!help [command]` to get more info on a specific command, for example: `t!help rank`
+
+**1. Core - **`help` `leveledroles` `ping` `selfroles` `support` 
+**2. Social - **`background` `badges` `dailies` `profile` `rank` `reputation` `setinfo` `settitle` `top` 
+**3. Fun - **`8ball` `cah` `cat` `catfacts` `choose` `coin` `cookie` `dice` `dog` `dogfacts` `fishy` `fortune` `numberfacts` `psychopass` `ratewaifu` `reverse` `rps` `slots` `tags` 
+**4. Economy - **`credits` `points` 
+**5. Utilities - **`color` `converter` `google` `image` `lotto` `math` `remindme` `shorten` `stocks` `strawpoll` `todo` `urban` `vote` `weather` `wiki` `youtube` 
+**6. Information - **`apikey` `avatar` `botlist` `changelog` `channel` `info` `role` `server` `shared` `usage` 
+**7. Anime - **`anime` `manga` `osu` `sic` 
+**8. Memes - **`beautiful` `hackerman` 
+
+```pl
+# Don't include the example brackets when using commands!
+# To view mod commands, use t@help
+```
+2018-01-14 01:55:59.936000 meimeister#6054  t!help
+2018-01-07 23:15:47.818000 Tatsumaki#8792  <@!399702483737247744>, connected to EHEHEHEHE
+2018-01-06 04:49:07.383000 Tatsumaki#8792  <@!398547071545638923>, connected to EHEHEHEHE
+2018-01-04 21:32:17.003000 JoshTheBoss#9009  hehe
+2018-01-04 20:40:25.271000 Tatsumaki#8792  <@!376149991892189184>, connected to EHEHEHEHE
+2018-01-04 18:56:21.830000 Tatsumaki#8792  <@!235841803771707395>, connected to EHEHEHEHE
+2017-12-27 05:34:11.004000 Taisa Zero#9806  !c disconnectvoice
+2017-12-27 05:33:09.868000 Taisa Zero#9806  !c disconnectvoice
+2017-12-27 05:33:02.517000 Taisa Zero#9806  !c joinvoice
+2017-12-27 05:32:05 Taisa Zero#9806  !c joinvoice
+2017-12-27 05:31:11.922000 Taisa Zero#9806  !c disconnectvoice
+2017-12-27 05:31:05.507000 Taisa Zero#9806  !c joinvoice
+2017-12-27 04:27:22.954000 Taisa Zero#9806  !c disconnectvoice
+2017-12-27 04:27:11.102000 Taisa Zero#9806  !c joinvoice
+2017-12-27 04:13:33.616000 Taisa Zero#9806  !c joinvoice
